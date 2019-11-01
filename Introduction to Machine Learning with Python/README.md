@@ -2,8 +2,6 @@
 
 [Github repo](https://github.com/amueller/introduction_to_ml_with_python)
 
-[pdf version](https://pan.baidu.com/s/1gIFoOaG2dxemI4RSuGPrbg) (plxm)
-
 - [Chapter 1. Introduction](https://nbviewer.jupyter.org/github/amueller/introduction_to_ml_with_python/blob/master/01-introduction.ipynb)
 - [Chapter 2. Supervised Learning](https://nbviewer.jupyter.org/github/amueller/introduction_to_ml_with_python/blob/master/02-supervised-learning.ipynb)
 - [Chapter 3. Unsupervised Learning and Preprocessing](https://nbviewer.jupyter.org/github/amueller/introduction_to_ml_with_python/blob/master/03-unsupervised-learning.ipynb)

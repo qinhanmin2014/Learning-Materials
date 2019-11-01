@@ -2,8 +2,6 @@
 
 [Github repo](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-[pdf version](https://pan.baidu.com/s/1NrNkMefdUWf475HDAOxfbQ) (eyse)
-
 - [Preface](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/00.00-Preface.ipynb)
 - [IPython: Beyond Normal Python](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)
   * [Help and Documentation in IPython](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.01-Help-And-Documentation.ipynb)
