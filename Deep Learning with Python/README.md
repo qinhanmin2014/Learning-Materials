@@ -13,7 +13,7 @@
 * Chapter 5:
     * [5.1: Introduction to convnets](http://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/Deep%20Learning%20with%20Python/5.1-introduction-to-convnets.ipynb)
     * [5.2: Using convnets with small datasets](http://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/Deep%20Learning%20with%20Python/5.2-using-convnets-with-small-datasets.ipynb)
-    * [5.3: Using a pre-trained convnet](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/5.3-using-a-pretrained-convnet.ipynb)
+    * [5.3: Using a pre-trained convnet](http://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/Deep%20Learning%20with%20Python/5.3-using-a-pretrained-convnet.ipynb)
     * [5.4: Visualizing what convnets learn](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/5.4-visualizing-what-convnets-learn.ipynb)
 * Chapter 6:
     * [6.1: One-hot encoding of words or characters](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/6.1-one-hot-encoding-of-words-or-characters.ipynb)
