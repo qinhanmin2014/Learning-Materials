@@ -13,7 +13,7 @@ https://github.com/yunjey/pytorch-tutorial
 #### 2. Intermediate
 * [Convolutional Neural Network](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/2_1_convolutional_neural_network.ipynb)
 * [Deep Residual Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/deep_residual_network/main.py#L76-L113)
-* [Recurrent Neural Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/recurrent_neural_network/main.py#L39-L58)
+* [Recurrent Neural Network](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/2_3_recurrent_neural_network.ipynb)
 * [Bidirectional Recurrent Neural Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/bidirectional_recurrent_neural_network/main.py#L39-L58)
 * [Language Model (RNN-LM)](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/language_model/main.py#L30-L50)
 
