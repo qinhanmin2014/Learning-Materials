@@ -8,10 +8,10 @@ https://github.com/yunjey/pytorch-tutorial
 * [PyTorch Basics](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/01-basics/pytorch_basics/main.py)
 * [Linear Regression](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/01-basics/linear_regression/main.py#L22-L23)
 * [Logistic Regression](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/01-basics/logistic_regression/main.py#L33-L34)
-* [Feedforward Neural Network](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/1_4_feedforward_neural_network)
+* [Feedforward Neural Network](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/1_4_feedforward_neural_network.ipynb)
 
 #### 2. Intermediate
-* [Convolutional Neural Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/convolutional_neural_network/main.py#L35-L56)
+* [Convolutional Neural Network](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/2_1_convolutional_neural_network.ipynb)
 * [Deep Residual Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/deep_residual_network/main.py#L76-L113)
 * [Recurrent Neural Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/recurrent_neural_network/main.py#L39-L58)
 * [Bidirectional Recurrent Neural Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/bidirectional_recurrent_neural_network/main.py#L39-L58)
