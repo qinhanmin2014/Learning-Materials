@@ -2,6 +2,8 @@
 
 https://github.com/yunjey/pytorch-tutorial
 
+pytorch version: 1.1.0
+
 ## Table of Contents
 
 #### 1. Basics
