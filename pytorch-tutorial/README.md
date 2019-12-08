@@ -22,7 +22,7 @@ pytorch version: 1.1.0
 #### 3. Advanced
 * [Generative Adversarial Networks](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/3_1_generative_adversarial_network.ipynb)
 * [Variational Auto-Encoder](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/3_2_variational_autoencoder.ipynb)
-* [Neural Style Transfer](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/neural_style_transfer)
+* [Neural Style Transfer](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/3_3_neural_style_transfer.ipynb)
 * [Image Captioning (CNN-RNN)](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
 
 #### 4. Utilities
