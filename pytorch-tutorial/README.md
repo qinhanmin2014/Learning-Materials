@@ -17,7 +17,7 @@ pytorch version: 1.1.0
 * [Deep Residual Network](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/2_2_deep_residual_network.ipynb)
 * [Recurrent Neural Network](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/2_3_recurrent_neural_network.ipynb)
 * [Bidirectional Recurrent Neural Network](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/2_4_bidirectional_recurrent_neural_network.ipynb)
-* [Language Model (RNN-LM)](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/language_model/main.py#L30-L50)
+* [Language Model (RNN-LM)](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/2_5_language_model.ipynb)
 
 #### 3. Advanced
 * [Generative Adversarial Networks](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/generative_adversarial_network/main.py#L41-L57)
