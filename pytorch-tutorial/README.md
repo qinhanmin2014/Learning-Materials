@@ -20,7 +20,7 @@ pytorch version: 1.1.0
 * [Language Model (RNN-LM)](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/2_5_language_model.ipynb)
 
 #### 3. Advanced
-* [Generative Adversarial Networks](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/generative_adversarial_network/main.py#L41-L57)
+* [Generative Adversarial Networks](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/3_1_generative_adversarial_network.ipynb)
 * [Variational Auto-Encoder](https://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/pytorch-tutorial/3_2_variational_autoencoder.ipynb)
 * [Neural Style Transfer](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/neural_style_transfer)
 * [Image Captioning (CNN-RNN)](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
