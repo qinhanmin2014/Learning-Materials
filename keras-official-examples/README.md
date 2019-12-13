@@ -8,6 +8,10 @@ https://github.com/keras-team/keras/tree/master/examples
 
 - mnist_mlp.py: Trains a simple deep multi-layer perceptron on the MNIST dataset.
 
+- mnist_cnn.py Trains a simple convnet on the MNIST dataset.
+
+- mnist_hierarchical_rnn.py Trains a Hierarchical RNN (HRNN) to classify MNIST digits.
+
 ### Text & sequences examples
 
 - lstm_seq2seq.py: Trains a basic character-level sequence-to-sequence model.
