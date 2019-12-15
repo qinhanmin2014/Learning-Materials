@@ -32,6 +32,8 @@ https://github.com/keras-team/keras/tree/master/examples
 
 - lstm_seq2seq_restore.py: Restores a character-level sequence to sequence model from disk (saved by lstm_seq2seq.py) and uses it to generate predictions.
 
+- pretrained_word_embeddings.py: Loads pre-trained word embeddings (GloVe embeddings) into a frozen Keras Embedding layer, and uses it to train a text classification model on the 20 Newsgroup dataset.
+
 - reuters_mlp.py: Trains and evaluate a simple MLP on the Reuters newswire topic classification task.
 
 - cnn_seq2seq.py: Sequence-to-sequence example in Keras (character-level).
