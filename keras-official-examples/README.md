@@ -20,6 +20,8 @@ https://github.com/keras-team/keras/tree/master/examples
 
 ### Text & sequences examples
 
+- addition_rnn.py: Implementation of sequence to sequence learning for performing addition of two numbers (as strings).
+
 - imdb_bidirectional_lstm.py: Trains a Bidirectional LSTM on the IMDB sentiment classification task.
 
 - imdb_cnn.py: Demonstrates the use of Convolution1D for text classification.
