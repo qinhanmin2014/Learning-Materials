@@ -28,6 +28,8 @@ https://github.com/keras-team/keras/tree/master/examples
 
 - imdb_cnn_lstm.py: Trains a convolutional stack followed by a recurrent stack network on the IMDB sentiment classification task.
 
+- imdb_fasttext.py: Trains a FastText model on the IMDB sentiment classification task.
+
 - imdb_lstm.py: Trains an LSTM model on the IMDB sentiment classification task.
 
 - lstm_seq2seq.py: Trains a basic character-level sequence-to-sequence model.
@@ -41,6 +43,10 @@ https://github.com/keras-team/keras/tree/master/examples
 - cnn_seq2seq.py: Sequence-to-sequence example in Keras (character-level).
 
 ### Generative models examples
+
+- lstm_text_generation.py: Generates text from Nietzsche's writings.
+
+- conv_filter_visualization.py: Visualization of the filters of VGG16, via gradient ascent in input space.
 
 - variational_autoencoder.py: Demonstrates how to build a variational autoencoder.
 
