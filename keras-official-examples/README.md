@@ -12,6 +12,8 @@ https://github.com/keras-team/keras/tree/master/examples
 
 - cifar10_cnn.py: Trains a simple deep CNN on the CIFAR10 small images dataset.
 
+- conv_lstm.py: Demonstrates the use of a convolutional LSTM network.
+
 - mnist_hierarchical_rnn.py: Trains a Hierarchical RNN (HRNN) to classify MNIST digits.
 
 - mnist_transfer_cnn.py: Transfer learning toy example on the MNIST dataset.
@@ -22,6 +24,10 @@ https://github.com/keras-team/keras/tree/master/examples
 
 - addition_rnn.py: Implementation of sequence to sequence learning for performing addition of two numbers (as strings).
 
+- babi_rnn.py: Trains a two-branch recurrent network on the bAbI dataset for reading comprehension.
+
+- babi_memnn.py: Trains a memory network on the bAbI dataset for reading comprehension.
+
 - imdb_bidirectional_lstm.py: Trains a Bidirectional LSTM on the IMDB sentiment classification task.
 
 - imdb_cnn.py: Demonstrates the use of Convolution1D for text classification.
@@ -31,6 +37,8 @@ https://github.com/keras-team/keras/tree/master/examples
 - imdb_fasttext.py: Trains a FastText model on the IMDB sentiment classification task.
 
 - imdb_lstm.py: Trains an LSTM model on the IMDB sentiment classification task.
+
+- lstm_stateful.py: Demonstrates how to use stateful RNNs to model long sequences efficiently.
 
 - lstm_seq2seq.py: Trains a basic character-level sequence-to-sequence model.
 
@@ -51,6 +59,8 @@ https://github.com/keras-team/keras/tree/master/examples
 - variational_autoencoder.py: Demonstrates how to build a variational autoencoder.
 
 - variational_autoencoder_deconv.py: Demonstrates how to build a variational autoencoder with Keras using deconvolution layers.
+
+- class_activation_maps.py
 
 ### Examples demonstrating specific Keras functionality
 
