@@ -14,7 +14,13 @@ https://github.com/keras-team/keras/tree/master/examples
 
 - conv_lstm.py: Demonstrates the use of a convolutional LSTM network.
 
+- mnist_acgan.py: Implementation of AC-GAN (Auxiliary Classifier GAN) on the MNIST dataset
+
 - mnist_hierarchical_rnn.py: Trains a Hierarchical RNN (HRNN) to classify MNIST digits.
+
+- mnist_siamese.py: Trains a Siamese multi-layer perceptron on pairs of digits from the MNIST dataset.
+
+- mnist_swwae.py: Trains a Stacked What-Where AutoEncoder built on residual blocks on the MNIST dataset.
 
 - mnist_transfer_cnn.py: Transfer learning toy example on the MNIST dataset.
 
@@ -55,6 +61,8 @@ https://github.com/keras-team/keras/tree/master/examples
 - lstm_text_generation.py: Generates text from Nietzsche's writings.
 
 - conv_filter_visualization.py: Visualization of the filters of VGG16, via gradient ascent in input space.
+
+- neural_style_transfer.py: Neural style transfer.
 
 - variational_autoencoder.py: Demonstrates how to build a variational autoencoder.
 

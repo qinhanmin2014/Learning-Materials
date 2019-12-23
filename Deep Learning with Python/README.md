@@ -24,6 +24,6 @@
 * Chapter 8:
     * [8.1: Text generation with LSTM](http://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/Deep%20Learning%20with%20Python/8.1-text-generation-with-lstm.ipynb)
     * [8.2: Deep dream (original version)](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/8.2-deep-dream.ipynb)
-    * [8.3: Neural style transfer (original version)](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/8.3-neural-style-transfer.ipynb)
+    * [8.3: Neural style transfer](http://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/Deep%20Learning%20with%20Python/8.3-neural-style-transfer.ipynb)
     * [8.4: Generating images with VAEs](http://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/Deep%20Learning%20with%20Python/8.4-generating-images-with-vaes.ipynb)
     * [8.5: Introduction to GANs](http://nbviewer.jupyter.org/github/qinhanmin2014/Learning-Materials/blob/master/Deep%20Learning%20with%20Python/8.5-introduction-to-gans.ipynb)
