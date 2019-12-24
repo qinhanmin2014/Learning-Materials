@@ -16,6 +16,8 @@ https://github.com/keras-team/keras/tree/master/examples
 
 - conv_lstm.py: Demonstrates the use of a convolutional LSTM network.
 
+- image_ocr.py Trains a convolutional stack followed by a recurrent stack and a CTC logloss function to perform optical character recognition (OCR). (unable to reproduce)
+
 - mnist_acgan.py: Implementation of AC-GAN (Auxiliary Classifier GAN) on the MNIST dataset
 
 - mnist_hierarchical_rnn.py: Trains a Hierarchical RNN (HRNN) to classify MNIST digits.
@@ -65,6 +67,8 @@ https://github.com/keras-team/keras/tree/master/examples
 - conv_filter_visualization.py: Visualization of the filters of VGG16, via gradient ascent in input space.
 
 - deep_dream.py: Deep Dreams in Keras.
+
+- neural_doodle.py: Neural doodle.
 
 - neural_style_transfer.py: Neural style transfer.
 
