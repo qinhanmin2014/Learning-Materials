@@ -12,6 +12,8 @@ https://github.com/keras-team/keras/tree/master/examples
 
 - cifar10_cnn.py: Trains a simple deep CNN on the CIFAR10 small images dataset.
 
+- cifar10_resnet.py: Trains a ResNet on the CIFAR10 small images dataset.
+
 - conv_lstm.py: Demonstrates the use of a convolutional LSTM network.
 
 - mnist_acgan.py: Implementation of AC-GAN (Auxiliary Classifier GAN) on the MNIST dataset
@@ -62,6 +64,8 @@ https://github.com/keras-team/keras/tree/master/examples
 
 - conv_filter_visualization.py: Visualization of the filters of VGG16, via gradient ascent in input space.
 
+- deep_dream.py: Deep Dreams in Keras.
+
 - neural_style_transfer.py: Neural style transfer.
 
 - variational_autoencoder.py: Demonstrates how to build a variational autoencoder.
@@ -77,5 +81,7 @@ https://github.com/keras-team/keras/tree/master/examples
 - mnist_sklearn_wrapper.py: Demonstrates how to use the sklearn wrapper.
 
 - mnist_irnn.py: Reproduction of the IRNN experiment with pixel-by-pixel sequential MNIST in "A Simple Way to Initialize Recurrent Networks of Rectified Linear Units" by Le et al.
+
+- mnist_net2net.py: Reproduction of the Net2Net experiment with MNIST in "Net2Net: Accelerating Learning via Knowledge Transfer".
 
 - reuters_mlp_relu_vs_selu.py: Compares self-normalizing MLPs with regular MLPs.
