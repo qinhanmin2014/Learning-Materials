@@ -1,6 +1,6 @@
-# pytorch-tutorial
+# pytorch-sentiment-analysis
 
-https://github.com/yunjey/pytorch-tutorial
+https://github.com/bentrevett/pytorch-sentiment-analysis
 
 pytorch version: 1.1.0
 
